@@ -1,0 +1,9 @@
+Images for "Voters Will Ask AI Chatbots About Tuesday's Election. I Checked Every Test of How Often They're Wrong."
+All images are the author's own, drawn with code (matplotlib / Pillow). No AI image generation.
+Credit for all: Author's own experiment, code at https://github.com/delini2018-del/election-chatbot-audits
+
+cover_election_chatbots.png      - Cover. Data: the 15 audits in data/audits.csv
+01_all_audits.png                - Figure 1. Data: all audits (sources listed in data/audits.csv)
+02_definitions.png               - Figure 2. Data: Institute for Strategic Dialogue (Sept 2026); Forum AI NewsBench (via Bloomberg Law, May 2026)
+03_models_language.png           - Figure 3. Data: Institute for Strategic Dialogue, "Chatbots and the Ballot Box" (Sept 2026)
+04_compounding.png               - Figure 4. Author's calculation from audit error rates

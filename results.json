@@ -1,0 +1,324 @@
+{
+ "n_studies": 15,
+ "task_median": {
+  "election facts": 30.0,
+  "voting procedures": 6.8,
+  "election facts & fact-checks": 20.0,
+  "false news claims": 28.0,
+  "news questions": 19.5,
+  "election news questions": 36.0,
+  "local political issues": 8.2
+ },
+ "strict_2026_us": [
+  0.0,
+  6.0,
+  7.6,
+  8.2,
+  36.0
+ ],
+ "broad_2026_us": [
+  29.0,
+  90.0
+ ],
+ "median_strict_2026_us": 7.6,
+ "chance": {
+  "2.9%": {
+   "1": 2.9,
+   "3": 8.5,
+   "5": 13.7,
+   "10": 25.5
+  },
+  "6%": {
+   "1": 6.0,
+   "3": 16.9,
+   "5": 26.6,
+   "10": 46.1
+  },
+  "8.2%": {
+   "1": 8.2,
+   "3": 22.6,
+   "5": 34.8,
+   "10": 57.5
+  },
+  "29%": {
+   "1": 29.0,
+   "3": 64.2,
+   "5": 82.0,
+   "10": 96.7
+  },
+  "36%": {
+   "1": 36.0,
+   "3": 73.8,
+   "5": 89.3,
+   "10": 98.8
+  }
+ },
+ "isd_ladder": [
+  [
+   "Inaccurate",
+   6
+  ],
+  [
+   "+ outdated",
+   12
+  ],
+  [
+   "+ incomplete or unclear",
+   29
+  ]
+ ],
+ "forum_ladder": [
+  [
+   "Factual error",
+   36
+  ],
+  [
+   "+ bias or poor sourcing",
+   90
+  ]
+ ],
+ "ranks": [
+  {
+   "study": "AI Democracy Projects",
+   "year": "2024",
+   "model": "GPT-4",
+   "family": "ChatGPT",
+   "value": 19.0,
+   "rank": 1,
+   "of": 5
+  },
+  {
+   "study": "AI Democracy Projects",
+   "year": "2024",
+   "model": "Claude",
+   "family": null,
+   "value": 46.0,
+   "rank": 2,
+   "of": 5
+  },
+  {
+   "study": "AI Democracy Projects",
+   "year": "2024",
+   "model": "Llama 2",
+   "family": null,
+   "value": 62.0,
+   "rank": 3,
+   "of": 5
+  },
+  {
+   "study": "AI Democracy Projects",
+   "year": "2024",
+   "model": "Mixtral",
+   "family": null,
+   "value": 62.0,
+   "rank": 4,
+   "of": 5
+  },
+  {
+   "study": "AI Democracy Projects",
+   "year": "2024",
+   "model": "Gemini",
+   "family": "Gemini",
+   "value": 65.0,
+   "rank": 5,
+   "of": 5
+  },
+  {
+   "study": "ISD English",
+   "year": "2026",
+   "model": "GPT-5.5",
+   "family": "ChatGPT",
+   "value": 11.0,
+   "rank": 1,
+   "of": 6
+  },
+  {
+   "study": "ISD English",
+   "year": "2026",
+   "model": "Gemini 3.5 Flash",
+   "family": "Gemini",
+   "value": 16.0,
+   "rank": 2,
+   "of": 6
+  },
+  {
+   "study": "ISD English",
+   "year": "2026",
+   "model": "Grok 4.3",
+   "family": null,
+   "value": 34.0,
+   "rank": 3,
+   "of": 6
+  },
+  {
+   "study": "ISD English",
+   "year": "2026",
+   "model": "Sonnet 4.6",
+   "family": null,
+   "value": 36.0,
+   "rank": 4,
+   "of": 6
+  },
+  {
+   "study": "ISD English",
+   "year": "2026",
+   "model": "DeepSeek V4 Pro",
+   "family": null,
+   "value": 37.0,
+   "rank": 5,
+   "of": 6
+  },
+  {
+   "study": "ISD English",
+   "year": "2026",
+   "model": "Muse Spark",
+   "family": null,
+   "value": 39.0,
+   "rank": 6,
+   "of": 6
+  },
+  {
+   "study": "ISD Spanish",
+   "year": "2026",
+   "model": "GPT-5.5",
+   "family": "ChatGPT",
+   "value": 18.0,
+   "rank": 1,
+   "of": 3
+  },
+  {
+   "study": "ISD Spanish",
+   "year": "2026",
+   "model": "DeepSeek V4 Pro",
+   "family": null,
+   "value": 60.0,
+   "rank": 2,
+   "of": 3
+  },
+  {
+   "study": "ISD Spanish",
+   "year": "2026",
+   "model": "Muse Spark",
+   "family": null,
+   "value": 62.0,
+   "rank": 3,
+   "of": 3
+  },
+  {
+   "study": "Reuters Institute",
+   "year": "2024",
+   "model": "Perplexity",
+   "family": "Perplexity",
+   "value": 17.0,
+   "rank": 1,
+   "of": 2
+  },
+  {
+   "study": "Reuters Institute",
+   "year": "2024",
+   "model": "ChatGPT",
+   "family": "ChatGPT",
+   "value": 22.0,
+   "rank": 2,
+   "of": 2
+  },
+  {
+   "study": "Searchable",
+   "year": "2026",
+   "model": "Google AI Mode",
+   "family": null,
+   "value": 2.9,
+   "rank": 1,
+   "of": 4
+  },
+  {
+   "study": "Searchable",
+   "year": "2026",
+   "model": "ChatGPT",
+   "family": "ChatGPT",
+   "value": 4.4,
+   "rank": 2,
+   "of": 4
+  },
+  {
+   "study": "Searchable",
+   "year": "2026",
+   "model": "Gemini",
+   "family": "Gemini",
+   "value": 6.2,
+   "rank": 3,
+   "of": 4
+  },
+  {
+   "study": "Searchable",
+   "year": "2026",
+   "model": "Perplexity",
+   "family": "Perplexity",
+   "value": 22.6,
+   "rank": 4,
+   "of": 4
+  },
+  {
+   "study": "States United (prelim)",
+   "year": "2025",
+   "model": "Google AI",
+   "family": "Gemini",
+   "value": 6.9,
+   "rank": 1,
+   "of": 2
+  },
+  {
+   "study": "States United (prelim)",
+   "year": "2025",
+   "model": "ChatGPT",
+   "family": "ChatGPT",
+   "value": 8.2,
+   "rank": 2,
+   "of": 2
+  },
+  {
+   "study": "States United (primary)",
+   "year": "2026",
+   "model": "Google AI",
+   "family": "Gemini",
+   "value": 0.0,
+   "rank": 1,
+   "of": 2
+  },
+  {
+   "study": "States United (primary)",
+   "year": "2026",
+   "model": "ChatGPT",
+   "family": "ChatGPT",
+   "value": 0.0,
+   "rank": 2,
+   "of": 2
+  }
+ ],
+ "newsguard": [
+  [
+   "Aug 2024",
+   18
+  ],
+  [
+   "Aug 2025",
+   35
+  ],
+  [
+   "Jan 2026",
+   28
+  ]
+ ],
+ "isd_lang": {
+  "English": 71,
+  "Spanish": 55
+ },
+ "isd_adversarial": {
+  "refuted_en": 91,
+  "refuted_es": 89,
+  "affirmed_en": 1,
+  "affirmed_es": 2
+ },
+ "false_premise_multiplier": 4,
+ "pew_share_adults": 8
+}

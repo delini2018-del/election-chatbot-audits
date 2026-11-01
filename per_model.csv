@@ -1,0 +1,25 @@
+study,year,model,metric,value_pct
+AI Democracy Projects,2024,Gemini,inaccurate,65
+AI Democracy Projects,2024,Llama 2,inaccurate,62
+AI Democracy Projects,2024,Mixtral,inaccurate,62
+AI Democracy Projects,2024,Claude,inaccurate,46
+AI Democracy Projects,2024,GPT-4,inaccurate,19
+Reuters Institute,2024,ChatGPT,not fully correct,22
+Reuters Institute,2024,Perplexity,not fully correct,17
+States United (prelim),2025,Google AI,factual errors,6.9
+States United (prelim),2025,ChatGPT,factual errors,8.2
+States United (primary),2026,Google AI,factual errors,0
+States United (primary),2026,ChatGPT,factual errors,0
+ISD English,2026,GPT-5.5,not accurate & complete,11
+ISD English,2026,Gemini 3.5 Flash,not accurate & complete,16
+ISD English,2026,Grok 4.3,not accurate & complete,34
+ISD English,2026,Sonnet 4.6,not accurate & complete,36
+ISD English,2026,DeepSeek V4 Pro,not accurate & complete,37
+ISD English,2026,Muse Spark,not accurate & complete,39
+ISD Spanish,2026,GPT-5.5,not accurate & complete,18
+ISD Spanish,2026,DeepSeek V4 Pro,not accurate & complete,60
+ISD Spanish,2026,Muse Spark,not accurate & complete,62
+Searchable,2026,Perplexity,false,22.6
+Searchable,2026,Gemini,false,6.2
+Searchable,2026,ChatGPT,false,4.4
+Searchable,2026,Google AI Mode,false,2.9
